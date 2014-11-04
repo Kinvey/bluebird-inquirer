@@ -1,7 +1,7 @@
 {
   "name": "bluebird-inquirer",
-  "version": "0.0.0",
-  "description": "A tiny Blurbird wrapper for Inquirer",
+  "version": "0.0.1",
+  "description": "A tiny blurbird wrapper for inquirer",
   "bugs": {
     "url": "https://github.com/Kinvey/bluebird-inquirer/issues"
   },
