@@ -1,0 +1,29 @@
+{
+  "name": "bluebird-inquirer",
+  "version": "0.0.0",
+  "description": "A tiny Blurbird wrapper for Inquirer",
+  "bugs": {
+    "url": "https://github.com/Kinvey/bluebird-inquirer/issues"
+  },
+  "main": "bluebird-inquirer.js",
+  "author": "Kinvey, Inc.",
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "contributors": [
+    "Pete Martin <pete@kinvey.com>"
+  ],
+  "repository": [
+    {
+      "type": "git",
+      "url": "git@github.com:Kinvey/bluebird-inquirer.git"
+    }
+  ],
+  "dependencies": {
+    "bluebird": "^2.3.10",
+    "inquirer": "^0.8.0"
+  }
+}
